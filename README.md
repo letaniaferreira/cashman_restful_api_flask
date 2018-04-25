@@ -1,0 +1,1 @@
+This API is based on a tutorial and it uses Flask SQLAlchemy and Marshmallow. It also has a Dockerfile
